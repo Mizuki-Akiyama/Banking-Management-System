@@ -9,7 +9,7 @@ public class DBConnection {
     // Database credentials
     private static final String URL = "jdbc:mysql://localhost:3306/Banking_management_system";
     private static final String USER = "root";
-    private static final String PASSWORD = "jyk7890./";
+    private static final String PASSWORD = "237692";
 
     // Method to establish a connection
     public static Connection getConnection() {
